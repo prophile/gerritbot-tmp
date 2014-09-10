@@ -1,0 +1,4 @@
+- image: ubuntu
+  commands:
+    - echo "This is a test!"
+    - false
